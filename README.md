@@ -81,12 +81,27 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamPaliwal157&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPaliwal157&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamPaliwal157&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPaliwal157&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPaliwal157&theme=tokyonight&hide_border=true" height="165"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=ShubhamPaliwal157&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -139,12 +154,20 @@ me.say_hi()
 
 ---
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+<!-- GitHub Achievements -->
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamPaliwal157&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" title="Pair Extraordinaire" />
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark" />
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" title="YOLO" />
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" title="Quickdraw" />
+
+**Pair Extraordinaire &nbsp;·&nbsp; Pull Shark &nbsp;·&nbsp; YOLO &nbsp;·&nbsp; Quickdraw**
 
 </div>
 
@@ -159,57 +182,7 @@ me.say_hi()
 
 </div>
 
----
 
-<!-- Contribution Chart -->
-## 🌿 Contribution Graph (Live)
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/36BCF7/ShubhamPaliwal157" alt="Shubham's GitHub Contribution Chart" />
-
-</div>
-
----
-
-<!-- Snake Animation — requires one-time GitHub Action setup (see below) -->
-## 🐍 Eating My Contributions
-
-> ⚙️ **To activate this:** Create `.github/workflows/snake.yml` in this repo with the Action below, then run it once from the **Actions** tab. The snake will appear and auto-update daily!
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ShubhamPaliwal157
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShubhamPaliwal157/ShubhamPaliwal157/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -241,6 +214,7 @@ me.say_hi()
 ⭐ **If you like my work, consider giving a star to my repos!** ⭐
 
 </div>
+
 
 
 <!--
