@@ -81,11 +81,6 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamPaliwal157&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPaliwal157&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-
-<br/>
-
 <img width="60%" src="https://streak-stats.demolab.com?user=ShubhamPaliwal157&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -127,24 +122,24 @@ me.say_hi()
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ShubhamPaliwal157/Albedo">
-        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Albedo.svg?fullname=" alt="Albedo" />
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Albedo.svg?fullname=&theme=dark" alt="Albedo" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ShubhamPaliwal157/DeskQwick">
-        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/DeskQwick.svg?fullname=" alt="DeskQwick" />
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/DeskQwick.svg?fullname=&theme=dark" alt="DeskQwick" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/ShubhamPaliwal157/Portfolio2024">
-        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Portfolio2024.svg?fullname=" alt="Portfolio2024" />
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Portfolio2024.svg?fullname=&theme=dark" alt="Portfolio2024" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ShubhamPaliwal157/QwickDesk-Hackathon-Submission-">
-        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/QwickDesk-Hackathon-Submission-.svg?fullname=" alt="QwickDesk Hackathon" />
+      <a href="https://github.com/ShubhamPaliwal157/Billing-System-C">
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Billing-System-C.svg?fullname=&theme=dark" alt="Billing System C" />
       </a>
     </td>
   </tr>
