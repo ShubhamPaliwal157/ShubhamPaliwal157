@@ -108,19 +108,32 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/ShubhamPaliwal157/Albedo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamPaliwal157&repo=Albedo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ShubhamPaliwal157/DeskQwick">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamPaliwal157&repo=DeskQwick&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ShubhamPaliwal157/Portfolio2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamPaliwal157&repo=Portfolio2024&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ShubhamPaliwal157/QwickDesk-Hackathon-Submission-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamPaliwal157&repo=QwickDesk-Hackathon-Submission-&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShubhamPaliwal157/Albedo">
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Albedo.svg?fullname=" alt="Albedo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShubhamPaliwal157/DeskQwick">
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/DeskQwick.svg?fullname=" alt="DeskQwick" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShubhamPaliwal157/Portfolio2024">
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/Portfolio2024.svg?fullname=" alt="Portfolio2024" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ShubhamPaliwal157/QwickDesk-Hackathon-Submission-">
+        <img src="https://gh-card.dev/repos/ShubhamPaliwal157/QwickDesk-Hackathon-Submission-.svg?fullname=" alt="QwickDesk Hackathon" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -131,7 +144,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamPaliwal157&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShubhamPaliwal157&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -148,8 +161,45 @@ me.say_hi()
 
 ---
 
-<!-- Snake Animation -->
+<!-- Contribution Chart -->
+## 🌿 Contribution Graph (Live)
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/36BCF7/ShubhamPaliwal157" alt="Shubham's GitHub Contribution Chart" />
+
+</div>
+
+---
+
+<!-- Snake Animation — requires one-time GitHub Action setup (see below) -->
 ## 🐍 Eating My Contributions
+
+> ⚙️ **To activate this:** Create `.github/workflows/snake.yml` in this repo with the Action below, then run it once from the **Actions** tab. The snake will appear and auto-update daily!
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ShubhamPaliwal157
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 <div align="center">
 
@@ -191,6 +241,7 @@ me.say_hi()
 ⭐ **If you like my work, consider giving a star to my repos!** ⭐
 
 </div>
+
 
 <!--
 **ShubhamPaliwal157/ShubhamPaliwal157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
