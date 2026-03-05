@@ -202,11 +202,11 @@ me.say_hi()
 <!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
 *"Crazy Leaf 🍂 trying to learn the ways of the immortals"*
 
 ⭐ **If you like my work, consider giving a star to my repos!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
 
